@@ -9,14 +9,7 @@ Features
 Prerequisites
 •Python 3.x
 •scapy library
-•Root/Administrator privileges (required for raw socket access)
-
-Installation
-1Clone the repository:
-git clone https://github.com/Leharish-07/CodeAlpha_Tasks.git
-cd CodeAlpha_Tasks
-2Install dependencies:
-pip install scapy
+•Root/Administrator privileges (required for raw socket access
 
 Usage
 Run the script with administrative privileges:
