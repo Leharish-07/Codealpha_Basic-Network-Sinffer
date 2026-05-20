@@ -1,5 +1,3 @@
-Basic Network Sniffer
-Description
 This project is a Python-based Network Sniffer developed as part of a cybersecurity internship task. It utilizes the scapy library to capture and analyze network packets in real-time. The tool is designed to help understand network protocols and data flow by displaying key information from captured packets.
 
 Features
@@ -15,7 +13,7 @@ Prerequisites
 
 Installation
 1Clone the repository:
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_Tasks.git
+git clone https://github.com/Leharish-07/CodeAlpha_Tasks.git
 cd CodeAlpha_Tasks
 2Install dependencies:
 pip install scapy
