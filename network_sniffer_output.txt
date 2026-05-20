@@ -1,0 +1,89 @@
+Starting network sniffer... Press Ctrl+C to stop.
+Source IP: 10.19.167.1, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 34354, Destination Port: 8330
+Source IP: 216.239.38.223, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 443, Destination Port: 56046
+Source IP: 169.254.0.21, Destination IP: 216.239.38.223, Protocol: 6
+    Source Port: 56046, Destination Port: 443
+Source IP: 169.254.0.21, Destination IP: 10.19.167.1, Protocol: 6
+    Source Port: 8330, Destination Port: 34354
+Source IP: 169.254.0.21, Destination IP: 10.19.167.1, Protocol: 6
+    Source Port: 8330, Destination Port: 34354
+Source IP: 10.19.167.1, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 34354, Destination Port: 8330
+Source IP: 10.19.167.1, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 34354, Destination Port: 8330
+Source IP: 169.254.0.21, Destination IP: 10.19.167.1, Protocol: 6
+    Source Port: 8330, Destination Port: 34354
+Source IP: 169.254.0.21, Destination IP: 10.19.167.1, Protocol: 6
+    Source Port: 8330, Destination Port: 34354
+Source IP: 10.19.167.1, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 34354, Destination Port: 8330
+Source IP: 10.19.167.1, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 34354, Destination Port: 8330
+Source IP: 169.254.0.21, Destination IP: 169.254.169.254, Protocol: 6
+    Source Port: 50822, Destination Port: 80
+Source IP: 169.254.169.254, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 80, Destination Port: 50822
+Source IP: 169.254.0.21, Destination IP: 169.254.169.254, Protocol: 6
+    Source Port: 50822, Destination Port: 80
+Source IP: 169.254.0.21, Destination IP: 169.254.169.254, Protocol: 6
+    Source Port: 50822, Destination Port: 80
+Source IP: 169.254.169.254, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 80, Destination Port: 50822
+Source IP: 169.254.0.21, Destination IP: 10.19.167.1, Protocol: 6
+    Source Port: 8330, Destination Port: 34354
+Source IP: 169.254.0.21, Destination IP: 10.19.167.1, Protocol: 6
+    Source Port: 8330, Destination Port: 34354
+Source IP: 10.19.167.1, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 34354, Destination Port: 8330
+Source IP: 10.19.167.1, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 34354, Destination Port: 8330
+Source IP: 169.254.0.21, Destination IP: 10.19.167.1, Protocol: 6
+    Source Port: 8330, Destination Port: 34354
+Source IP: 10.19.167.1, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 34354, Destination Port: 8330
+Source IP: 169.254.0.21, Destination IP: 169.254.169.254, Protocol: 6
+    Source Port: 50822, Destination Port: 80
+Source IP: 35.169.183.162, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 443, Destination Port: 49498
+Source IP: 169.254.0.21, Destination IP: 35.169.183.162, Protocol: 6
+    Source Port: 49498, Destination Port: 443
+Source IP: 169.254.0.21, Destination IP: 10.19.167.1, Protocol: 6
+    Source Port: 8330, Destination Port: 34354
+Source IP: 169.254.0.21, Destination IP: 10.19.167.1, Protocol: 6
+    Source Port: 8330, Destination Port: 34354
+Source IP: 10.19.167.1, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 34354, Destination Port: 8330
+Source IP: 10.19.167.1, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 34354, Destination Port: 8330
+Source IP: 169.254.0.21, Destination IP: 10.19.167.1, Protocol: 6
+    Source Port: 8330, Destination Port: 34354
+Source IP: 169.254.0.21, Destination IP: 10.19.167.1, Protocol: 6
+    Source Port: 8330, Destination Port: 34354
+Source IP: 10.19.167.1, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 34354, Destination Port: 8330
+Source IP: 10.19.167.1, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 34354, Destination Port: 8330
+Source IP: 169.254.0.21, Destination IP: 35.169.183.162, Protocol: 6
+    Source Port: 49498, Destination Port: 443
+Source IP: 35.169.183.162, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 443, Destination Port: 49498
+Source IP: 169.254.0.21, Destination IP: 10.19.167.1, Protocol: 6
+    Source Port: 8330, Destination Port: 34354
+Source IP: 169.254.0.21, Destination IP: 10.19.167.1, Protocol: 6
+    Source Port: 8330, Destination Port: 34354
+Source IP: 10.19.167.1, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 34354, Destination Port: 8330
+Source IP: 10.19.167.1, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 34354, Destination Port: 8330
+Source IP: 169.254.0.21, Destination IP: 10.19.167.1, Protocol: 6
+    Source Port: 8330, Destination Port: 34354
+Source IP: 169.254.0.21, Destination IP: 10.19.167.1, Protocol: 6
+    Source Port: 8330, Destination Port: 34354
+Source IP: 10.19.167.1, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 34354, Destination Port: 8330
+Source IP: 10.19.167.1, Destination IP: 169.254.0.21, Protocol: 6
+    Source Port: 34354, Destination Port: 8330
+Source IP: 169.254.0.21, Destination IP: 169.254.169.254, Protocol: 6
+    Source Port: 50822, Destination Port: 80
